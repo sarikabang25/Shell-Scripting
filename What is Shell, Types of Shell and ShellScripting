@@ -1,0 +1,16 @@
+Do you know there is a kernel in every Linux distribution?
+What exactly a kernel is 
+It actually interfaces between your hardware and your software.
+So let's look at this diagram here. You will see you have at the bottom is the hardware.
+And what are those hardware?
+Hardware is like CPU memory, hard disk and any outside hardware, peripheral devices.
+Then you have kernel.
+A kernel is a program that is stored inside of your operating system. It's like a program, a command that keeps on running.
+And what it does is it takes the commands from Shell. 
+What is a shell?
+Shell is anything like a GUI that we have in windows or gooey(GUI) in Linux, or if you don't have gooey in Linux, we have terminal that runs Bash Shell or C Shell So when we are in that bash or C shell terminal environment, we execute commands.
+The commands are being forwarded to Kernel and its kernel's responsibility to talk to the hardware that's inside of your computer. And then you're on top of that.
+You have a browser, send mail, all the applications that we run like calculator, calendar office or any Linux related applications. And of course, on top of that is are the users and that is you.
+So shell and kernel together that software built together in one package and that is called operating system.
+And that operating system is any operating system like Linux, Unix, Mac or Windows.
+Every operating system has that little program that actually talks to your hardware and anything that is a shell which is written in C programming language as well, that Shell or that those applications are actually the software.
